@@ -6,4 +6,4 @@ An earlier hacked example I used for an an Middle East sentiment analysis is in 
 
 The more user friendly general API is in the twitterSentimentAnalysisAPI.ipynb. 
 
-Personal Twitter API credentials are necessary.
+Personal Twitter API credentials are necessary. In terms of directions, the comments are self-explanatory. 
