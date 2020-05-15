@@ -7,3 +7,5 @@ copy_of_MiddleEast_Twitter_Analysis.ipynb is an earlier hacky example I used for
 However, a more user friendly, general API is in the twitterSentimentAnalysisAPI.ipynb. 
 
 Personal Twitter API credentials are necessary. In terms of directions on how to use, the comments are self-explanatory. 
+
+Based off of: https://www.dropbox.com/s/5enwrz2ggswns56/Telemedicine_twitter_v3.5.py?dl=0
